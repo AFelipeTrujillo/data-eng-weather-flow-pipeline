@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.DS_Store
+data/raw/*.json
+data/processed/*.parquet
+data/final/*.db
